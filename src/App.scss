@@ -1,0 +1,116 @@
+.Property1Default {
+    width: 95px;
+    height: 41px;
+    position: relative;
+    cursor: pointer;
+    
+
+
+
+    .Rectangle1 {
+        width: 85px;
+        height: 31px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        background: white;
+        box-shadow: 0px 0px 4px 0.5px rgba(63, 46, 62, 0.60)inset;
+        border-radius: 999px
+    }
+
+    .Rectangle2 {
+        width: 72.39px;
+        height: 20.56px;
+        left: 5.88px;
+        top: 5px;
+        position: absolute;
+        background: #3F2E3E;
+        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.60) inset;
+        border-radius: 999px
+    }
+
+    .Ellipse1 {
+        width: 18px;
+        height: 18px;
+        left: 7.26px;
+        top: 6.67px;
+        position: absolute;
+        transform: rotate(-0.84deg);
+        transform-origin: 0 0;
+        background: white;
+        box-shadow: 0px 0px 2px rgba(63, 46, 62, 0.50) inset;
+        border-radius: 9999px
+    }
+
+    .Ellipse2 {
+        width: 12px;
+        height: 12px;
+        left: 60px;
+        top: 11.34px;
+        position: absolute;
+        transform: rotate(-12.05deg);
+        transform-origin: 0 0;
+        background: #3F2E3E;
+        box-shadow: -1px -1px 2px white inset;
+        border-radius: 9999px
+    }
+}
+
+
+.Property1Variant2 {
+    width: 95px;
+    height: 41px;
+    position: relative;
+    cursor: pointer;
+
+
+
+    .Rectangle1 {
+        width: 85px;
+        height: 31px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        background: rgba(63, 46, 62, 0.60);
+        box-shadow: 0px 0px 6px 0.5px rgba(211, 209, 211, 0.6);
+        border-radius: 999px
+    }
+
+    .Rectangle2 {
+        width: 72.39px;
+        height: 20.56px;
+        left: 5.88px;
+        top: 5px;
+        position: absolute;
+        background: white;
+        box-shadow: 0px 0px 4px rgba(63, 46, 62, 0.60) inset;
+        border-radius: 15.28px
+    }
+
+    .Ellipse1 {
+        width: 18px;
+        height: 18px;
+        left: 76.03px;
+        top: 23.61px;
+        position: absolute;
+        transform: rotate(179.15deg);
+        transform-origin: 0 0;
+        background: #3F2E3E;
+        box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.25) inset;
+        border-radius: 9999px
+    }
+
+    .Ellipse2 {
+        width: 16px;
+        height: 16px;
+        left: 23.92px;
+        top: 6.96px;
+        position: absolute;
+        transform: rotate(86.03deg);
+        transform-origin: 0 0;
+        background: #EFE1D1;
+        box-shadow: 0px 0px 2px #1E1E1E;
+        border-radius: 9999px;
+        border: 0.10px #3F2E3E solid
+    }
+}
