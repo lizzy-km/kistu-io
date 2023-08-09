@@ -31,7 +31,7 @@ const NavBar = () => {
     <section className=' px-[1.8rem]  shadow-sm text-slate-200 flex justify-between py-[16px] items-center h-[50px] w-full bg-[#331D2C] '  >
         <div className=' flex justify-center items-center gap-4 ' >
             <Link to={'/'} >
-            <img className=' w-[35px] h-[35px] ' src="/src/assets/react.svg" alt=""/>
+            <img className=' w-[35px] h-[35px] ' src="https://raw.githubusercontent.com/lizzy-km/kistu-io/f3d4be040dc338b6ee2ff6e2d0b0ae68dbc86e04/src/assets/react.svg" alt=""/>
 
             </Link>
             <div>
